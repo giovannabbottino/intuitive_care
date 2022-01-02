@@ -1,7 +1,7 @@
 # Teste 1 e 2
 
 ## Features
-- [ ] Teste 1 - WebScraping 
+- [X] Teste 1 - WebScraping 
 - [ ] Teste 2 - Transformação de dados 
 
 ### Pré-requisitos 
@@ -11,7 +11,7 @@ Para usar esse programa vocês precisará de Python3.
 ```bash
 # após clonar esse repositorio 
 # acesse a pasta do projeto
-$ cd intuitive_care
+$ cd intuitive_care/teste_1_2
 
 # crie um ambiente em python3
 $ python -m venv nome_ambiente

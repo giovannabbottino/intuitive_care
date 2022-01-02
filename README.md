@@ -2,7 +2,7 @@
 
 ## Features
 - [X] Teste 1 - WebScraping 
-- [ ] Teste 2 - Transformação de dados 
+- [X] Teste 2 - Transformação de dados 
 - [ ] Teste 3 - Banco de dados 
 - [ ] Teste 4 - FrontEnd 
 

@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 # Teste 1 e 2
 
 ## Features
@@ -11,13 +13,13 @@ Para usar esse programa vocês precisará de Python3.
 ```bash
 # após clonar esse repositorio 
 # acesse a pasta do projeto
-$ cd intuitive_care/teste_1_2
+cd intuitive_care/teste_1_2
 
 # crie um ambiente em python3
-$ python -m venv nome_ambiente
+python -m venv nome_ambiente
 
 # acesse o ambiete 
-$ .\nome_ambiente\Scripts\activate
+.\nome_ambiente\Scripts\activate
 
 # baixa os modulos
 $(nome_ambiente)  pip install -r requirements.txt
